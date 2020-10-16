@@ -18,10 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+         
+   
         <meta-data
             android:name="com.cuelinks.channelId"
-            android:value="123456" />
+            android:value="11405" />
         <meta-data
             android:name="com.cuelinks.subId"
             android:value="campaign test, source, abc, xyz, qwerty" />
